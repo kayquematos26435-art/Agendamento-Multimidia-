@@ -1,0 +1,7 @@
+{
+  "name": "EduMídia - Agendamento Multimídia Escolar",
+  "description": "Sistema completo para gestão e agendamento de recursos audiovisuais, espaços e equipamentos multimídia escolares com prevenção de conflitos e termo de cautela.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
